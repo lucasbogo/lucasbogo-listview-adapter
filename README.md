@@ -1,4 +1,5 @@
 # lucasbogo-listview-adapter
+ [documentação oficial](https://developer.android.com/reference/android/widget/ListView)
 
 ### Desenvolvimento para Dispositivos Móveis Trabalho Prático 2 – Utilização de ActionMode, Dialog e Adapter.
 
